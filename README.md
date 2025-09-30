@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub
 
-<!--
-**awesomeshot5051/awesomeshot5051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Trae England** — an Information Technology student focusing on **Cybersecurity** and a developer who enjoys building useful tools and applications.  
 
-Here are some ideas to get you started:
+## 🚀 Featured Project  
+The main project I’m working on right now is my custom **GUI framework**:  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 [**GUI Project Repository**](https://github.com/awesomeshot5051/GUI)  
+
+This repository hosts a comprehensive JavaFX application designed for secure user and file management. It implements robust security measures including secure authentication, role-based access control, password hashing, and advanced file encryption.
+
+## 🔧 What I’m Working On  
+- Building JavaFX applications with modern UI/UX design.  
+- Developing Minecraft mods using **NeoForge**.  
+- Exploring cybersecurity topics like encryption and secure storage systems.  
+
+## 📫 Connect With Me  
+- GitHub: [@awesomeshot5051](https://github.com/awesomeshot5051)  
+
+---
+
+⭐ If you like my work, feel free to follow me here on GitHub or check out my projects.  
