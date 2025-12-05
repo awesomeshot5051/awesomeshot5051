@@ -3,9 +3,9 @@
 Hi, I'm **Trae England** — an Information Technology student focusing on **Cybersecurity** and a developer who enjoys building useful tools and applications.  
 
 ## 🚀 Featured Project  
-The main project I’m working on right now is my custom **GUI framework**:  
+The main project I’m working on right now is my custom **File Encryption Software**:  
 
-👉 [**GUI Project Repository**](https://github.com/awesomeshot5051/ETVaultGuard)  
+👉 [**ETVaultGuard**](https://github.com/awesomeshot5051/ETVaultGuard)  
 
 This repository hosts a comprehensive JavaFX application designed for secure user and file management. It implements robust security measures including secure authentication, role-based access control, password hashing, and advanced file encryption.
 
